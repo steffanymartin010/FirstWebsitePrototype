@@ -1,0 +1,16 @@
+@font-face{
+    font-family: SourceSansPro;
+    src: url(../fuentes/SourceSansPro-Black.ttf);
+    
+}
+
+@font-face {
+    font-family: SourceSansProBold;
+    src: url(../fuentes/SourceSansPro-BoldItalic.ttf);
+
+}
+
+@font-face {
+    font-family: Homeday;
+    src: url(../fuentes/Homeday.otf);
+}
